@@ -15,27 +15,10 @@ export const LIVE_EVENT_TOAST = true;
  ******************************************/
 
 export const FOOTER_LINKS = [
-  {
-    href: "https://github.com/BankkRoll/Gamba-V2-Next.js",
-    title: "👨‍💻 Build your own",
-  },
-  {
-    href: "https://explorer.gamba.so/create",
-    title: "🚀 Create Pool",
-  },
-  {
-    href: "https://gamba.so/docs",
-    title: "📖 Gamba Docs",
-  },
-  {
-    href: "https://discord.com/invite/HSTtFFwR",
-    title: "💬 Join Discord",
-  },
 ];
 
 export const FOOTER_TWITTER_LINK = {
-  href: "https://twitter.com/bankkroll_eth",
-  title: "© 2024 Template made with ❤️ by Bankk",
+  title: "© 2024 Template made with ❤️ by Abdul",
 };
 
 /******************************************
